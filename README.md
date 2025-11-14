@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/tandpfun/skill-icons/main/banner.png)
+![Banner](https://capsule-render.vercel.app/api?type=waving\&height=200\&text=Akshat%20Nautiyal\&fontSize=40\&fontAlignY=40\&color=gradient\&animation=fadeIn)
 
 
 # 👋 Hi, I'm **Akshat Nautiyal**
