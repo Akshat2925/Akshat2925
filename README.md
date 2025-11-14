@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Akshat2925/Akshat2925/main/your-banner.png)
+![Banner](https://raw.githubusercontent.com/tandpfun/skill-icons/main/banner.png)
 
 
 # 👋 Hi, I'm **Akshat Nautiyal**
