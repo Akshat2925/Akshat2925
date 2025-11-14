@@ -123,7 +123,7 @@ These will auto-update once you create repositories:
 <p align="left">
   <a href="https://github.com/Akshat2925/Akshat2925/blob/main/z.pdf" 
     target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=whit" />
   </a>
 </p>
 
