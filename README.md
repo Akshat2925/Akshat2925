@@ -1,4 +1,5 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving\&height=200\&text=Akshat%20Nautiyal\&fontSize=40\&fontAlignY=40\&color=gradient\&animation=fadeIn)
+![Banner](https://raw.githubusercontent.com/Akshat2925/Akshat2925/main/your-banner.png)
+
 
 # 👋 Hi, I'm **Akshat Nautiyal**
 
