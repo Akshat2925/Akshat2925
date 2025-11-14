@@ -91,7 +91,7 @@ These will auto-update once you create repositories:
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Akshat2925/Akshat2925/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Akshat2925/Akshat2925/blob/output/dist/github-contribution-grid-snake.svg)
 
 (If it doesn’t load yet, I’ll help set it up.)
 
