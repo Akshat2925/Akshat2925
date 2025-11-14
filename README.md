@@ -89,8 +89,11 @@ These will auto-update once you create repositories:
 
 ---
 
-# 🐍 Contribution Snake
-![snake gif](https://github.com/Akshat2925/Akshat2925/blob/output/dist/github-contribution-grid-snake-dark.svg)
+## 🐍 Contribution Snake
+
+![github contribution grid snake](https://github.com/Akshat2925/Akshat2925/blob/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake](https://github.com/Akshat2925/Akshat2925/blob/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 (If it doesn’t load yet, I’ll help set it up.)
 
